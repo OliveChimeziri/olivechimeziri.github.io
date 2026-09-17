@@ -12,5 +12,6 @@ Hi, I'm Olive Chimeziri, a Python Developer specializing In Data Engineering, an
 - **[Project Name](link-to-project)**: Brief description of the project
 - **[Another Project](link-to-project)**: Brief description of the project
 ## Contact
-- Email: your-email@example.com
-- LinkedIn: [Your LinkedIn Profile](link)
+- Email: olivechimeziri551@gmail.com
+- LinkedIn: http://linkedin.com/in/olivechimeziri
+- github: github.com/olivechimeziri
