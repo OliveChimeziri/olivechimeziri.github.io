@@ -9,8 +9,8 @@ Hi, I'm Olive Chimeziri, a Python Developer specializing In Data Engineering, an
 - dbt, aws.
 - - Flask/Django
 ## Projects
-- **[Project Name](link-to-project)**: Brief description of the project
-- **[Another Project](link-to-project)**: Brief description of the project
+- **[Project Name](link-to-project)**: Dockerized Container
+- **[Another Project](link-to-project)**: Django 
 ## Contact
 - Email: olivechimeziri551@gmail.com
 - LinkedIn: http://linkedin.com/in/olivechimeziri
